@@ -5,6 +5,9 @@
   padding-right: 1.5rem; 
 }
 
+.skills-title {
+  color: #ffffff;
+}
 @media (min-width: 640px) { 
   .skills-section {
     padding-left: 4rem; 
@@ -56,6 +59,7 @@
   transition-property: transform, box-shadow, color;
   transition-timing-function: cubic-bezier(0.4, 0, 1, 1);
   transition-duration: 300ms; 
+  color: #ffffff;
 }
 
 .skill-card:hover {

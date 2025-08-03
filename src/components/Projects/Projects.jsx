@@ -9,7 +9,7 @@ const Projects = () => {
     <section id='projects' className='projects-section'>
       <div className='projects-container'>
         <h6 className='projects-section-subtitle'>Projects</h6>
-        <h2 className='projects-section-title'>What I&#39;ve Built</h2>
+        <h2 className='projects-title'>What I&#39;ve Built</h2>
         <div className='projects-grid'>
           {projects.map((project) => (
             <div key={project.id} className='project-card-wrapper'>

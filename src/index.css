@@ -10,8 +10,8 @@ html {
 
 body {
   font-family: 'Source Sans 3', sans-serif;
-  background-color: #ecf0f3;
-  color: #1f2937;
+  background-color: #000000;
+  color: #000000;
   letter-spacing: 0.4px;
 }
 
@@ -32,7 +32,7 @@ h2 {
   padding-top: 8px;
   padding-bottom: 8px;
   font-size: 30px;
-  color: #374151;
+  color: #121212;
 }
 
 h6 {
